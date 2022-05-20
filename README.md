@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Mustafa Eren</h1>
 <h3 align="center">I am a Computer Science student at Bursa Technical University</h3>
 
-- I’m currently learning **Mobile Development and Backend Development**
+- I’m currently learning **Mobile and Backend Development**
 
 <div>
     <a href="https://github.com/mustafaerenn/github-profile-views-counter">
