@@ -1,10 +1,17 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafaerenn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-
 
 <h1 align="center">Hi, I'm Mustafa Eren</h1>
 <h3 align="center">I am a Computer Science student at Bursa Technical University</h3>
 
 - I’m currently learning **Mobile and Backend Development**
+
+
+<div style="display: flex; flex-direction:column  ">
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafaerenn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenn&theme=dracula&hide=Objective-C,ShaderLab,c%23"/>
+</div>
+
+</br>
 
 <div>
     <a href="https://github.com/mustafaerenn/github-profile-views-counter">
@@ -27,8 +34,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 </div>
+
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenn&theme=dracula&hide=Objective-C,ShaderLab,c%23"/></a>
+</br>
+</br>
+
 
 <h2>Contact with me</h2>
 <a href = "mailto:mustafaeren790@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
