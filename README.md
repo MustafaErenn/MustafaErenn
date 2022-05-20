@@ -13,7 +13,7 @@
     </a>
 </div>
 
-<div style="display: flex; flex-direction:column  ">
+<div>
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafaerenn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenn&theme=dracula&hide=Objective-C,ShaderLab,c%23"/>
