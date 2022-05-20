@@ -4,6 +4,14 @@
 
 - I’m currently learning **Mobile and Backend Development**
 
+<div>
+    <a href="https://github.com/mustafaerenn/github-profile-views-counter">
+        <img align="center" src="https://komarev.com/ghpvc/?username=mustafaerenn&color=f75c7e">
+    </a>
+    <a href="https://github.com/mustafaerenn?tab=followers">
+        <img align="center"  src="https://img.shields.io/github/followers/mustafaerenn?style=flat-square&color=f75c7e">
+    </a>
+</div>
 
 <div style="display: flex; flex-direction:column  ">
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafaerenn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
@@ -14,17 +22,7 @@
 </br>
 
 </br>
-<div>
-    <a href="https://github.com/mustafaerenn/github-profile-views-counter">
-        <img align="center" src="https://komarev.com/ghpvc/?username=mustafaerenn&color=f75c7e">
-    </a>
-    <a href="https://github.com/mustafaerenn?tab=followers">
-        <img align="center"  src="https://img.shields.io/github/followers/mustafaerenn?style=flat-square&color=f75c7e">
-    </a>
-</br>
-</br>
 
-</div>
 <h2>Languages and Tools</h2>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
