@@ -5,7 +5,7 @@
 
 - I’m currently learning **Mobile Development and Backend Development**
 
-<div align="center">
+<div >
     <a href="https://github.com/mustafaerenn/github-profile-views-counter">
         <img align="center" src="https://komarev.com/ghpvc/?username=mustafaerenn&color=f75c7e">
     </a>
