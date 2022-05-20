@@ -3,6 +3,15 @@
 <h3 align="center">I am a Computer Science student at Bursa Technical University</h3>
 
 - I’m currently learning **Mobile and Backend Development**
+- 
+
+<div>
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafaerenn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenn&theme=dracula&hide=Objective-C,ShaderLab,c%23"/>
+</div>
+
+</br>
 
 <div>
     <a href="https://github.com/mustafaerenn/github-profile-views-counter">
@@ -12,14 +21,6 @@
         <img align="center"  src="https://img.shields.io/github/followers/mustafaerenn?style=flat-square&color=f75c7e">
     </a>
 </div>
-
-<div>
-    <img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafaerenn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenn&theme=dracula&hide=Objective-C,ShaderLab,c%23"/>
-</div>
-
-</br>
 
 </br>
 
