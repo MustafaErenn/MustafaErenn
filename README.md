@@ -3,7 +3,6 @@
 <h3 align="center">I am a Computer Science student at Bursa Technical University</h3>
 
 - I’m currently learning **Mobile and Backend Development**
-- 
 
 <div>
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafaerenn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
@@ -15,8 +14,7 @@
 </div>
 
 </br>
-</br>
-</br>
+
 
 <div>
     <a href="https://github.com/mustafaerenn/github-profile-views-counter">
@@ -42,9 +40,6 @@
 </div>
 
 </br>
-</br>
-</br>
-
 
 <h2>Contact with me</h2>
 <a href = "mailto:mustafaeren790@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
